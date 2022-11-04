@@ -1,8 +1,8 @@
 import akka.actor.{Actor, ActorRef, ActorSystem, Props}
-import question3.person.livethelife
+import Question3.person.livethelife
 
 
-object question3 extends App{
+object Question3 extends App{
   object bankaccount{
     case class deposite(amount: Int)
     case class withdraw(amount: Int)
