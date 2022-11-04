@@ -7,7 +7,7 @@ import org.scalatest.wordspec.AnyWordSpecLike
 
 import java.io._
 
-object question extends App{
+object Question1 extends App{
 
 
   class ActorWithWarn extends Actor with ActorLogging{
