@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../AkkaActor2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../AkkaActor2" />
+            <option value="$PROJECT_DIR$/../AkkaActor2/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.7.3" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../AkkaActor3" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../AkkaActor3" />
+            <option value="$PROJECT_DIR$/../AkkaActor3/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.7.3" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../AkkaActor4_" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../AkkaActor4_" />
+            <option value="$PROJECT_DIR$/../AkkaActor4_/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.7.3" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="converterVersion" value="1" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.7.2" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../AkkaActors2_" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../AkkaActors4" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../AkkaActors4" />
+            <option value="$PROJECT_DIR$/../AkkaActors4/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.7.3" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../Akkaassignment1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../Akkaassignment1" />
+            <option value="$PROJECT_DIR$/../Akkaassignment1/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.7.2" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../Extra" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../Extra" />
+            <option value="$PROJECT_DIR$/../Extra/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.7.3" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../akkahttppractice" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../akkahttppractice" />
+            <option value="$PROJECT_DIR$/../akkahttppractice/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="1.7.3" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>

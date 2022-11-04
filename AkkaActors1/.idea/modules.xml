@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AkkaActor2.iml" filepath="$PROJECT_DIR$/.idea/modules/AkkaActor2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AkkaActor2/.idea/modules/AkkaActor2-build.iml" filepath="$PROJECT_DIR$/../AkkaActor2/.idea/modules/AkkaActor2-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AkkaActor3.iml" filepath="$PROJECT_DIR$/.idea/modules/AkkaActor3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AkkaActor3/.idea/modules/AkkaActor3-build.iml" filepath="$PROJECT_DIR$/../AkkaActor3/.idea/modules/AkkaActor3-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AkkaActor4_/.idea/modules/AkkaActor4_.iml" filepath="$PROJECT_DIR$/../AkkaActor4_/.idea/modules/AkkaActor4_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AkkaActor4_/.idea/modules/AkkaActor4_-build.iml" filepath="$PROJECT_DIR$/../AkkaActor4_/.idea/modules/AkkaActor4_-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AkkaActors1.iml" filepath="$PROJECT_DIR$/.idea/modules/AkkaActors1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AkkaActors1-build.iml" filepath="$PROJECT_DIR$/.idea/modules/AkkaActors1-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AkkaActors4.iml" filepath="$PROJECT_DIR$/.idea/modules/AkkaActors4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AkkaActors4/.idea/modules/AkkaActors4-build.iml" filepath="$PROJECT_DIR$/../AkkaActors4/.idea/modules/AkkaActors4-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Extra.iml" filepath="$PROJECT_DIR$/.idea/modules/Extra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Extra/.idea/modules/Extra-build.iml" filepath="$PROJECT_DIR$/../Extra/.idea/modules/Extra-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/akkahttppractice.iml" filepath="$PROJECT_DIR$/.idea/modules/akkahttppractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../akkahttppractice/.idea/modules/akkahttppractice-build.iml" filepath="$PROJECT_DIR$/../akkahttppractice/.idea/modules/akkahttppractice-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/modules/ideaprojects.iml" filepath="$PROJECT_DIR$/../.idea/modules/ideaprojects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/modules/ideaprojects-build.iml" filepath="$PROJECT_DIR$/../.idea/modules/ideaprojects-build.iml" />
+    </modules>
+  </component>
+</project>
